@@ -16,7 +16,6 @@ import com.fasterxml.jackson.annotation.JsonBackReference;
 
 
 @Entity
-//@JsonIdentityInfo(generator = ObjectIdGenerators.PropertyGenerator.class, property = "id", scope=Produto.class)
 public class Produto implements Serializable{
 	private static final long serialVersionUID = 1L;
 	
