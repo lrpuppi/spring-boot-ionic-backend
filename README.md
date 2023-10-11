@@ -1,5 +1,6 @@
 # spring-boot-ionic-backend
 
+[![Docker Build/Publish Image](https://github.com/lrpuppi/spring-boot-ionic-backend/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/lrpuppi/spring-boot-ionic-backend/actions/workflows/docker-publish.yml)
 
 ####Docker instructions
 
