@@ -10,9 +10,11 @@ name: Java CI with Maven
 
 on:
   push:
-    branches: [ "oci-features" ]
+    branches:
+      - oci-features
   pull_request:
-    branches: [ "oci-features" ]
+    branches:
+      - oci-features
 
 jobs:
   build:
