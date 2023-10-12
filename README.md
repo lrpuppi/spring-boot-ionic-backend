@@ -19,3 +19,5 @@
 
     docker run -d -p outside_port:inside_port user/image:tag
     
+ 
+    
